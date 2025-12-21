@@ -1,2 +1,3 @@
-# Undergraduate Courseworks@NTHU
+# Undergraduate Courseworks
 
+Institue: National Tsing Hua University
