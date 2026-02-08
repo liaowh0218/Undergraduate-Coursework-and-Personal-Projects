@@ -1,4 +1,4 @@
-# Undergraduate Coursework
+# Undergraduate Coursework & Personal Projects
 Institue: 
 National Tsing Hua University(Hsinchu, Taiwan)
 
