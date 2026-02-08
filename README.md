@@ -1,4 +1,6 @@
 # Undergraduate Coursework & Personal Projects
+All the coursework relative to quantitative finance and some projects finished out of the course
+
 Institue: 
 National Tsing Hua University(Hsinchu, Taiwan)
 
