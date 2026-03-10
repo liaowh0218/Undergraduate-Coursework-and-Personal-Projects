@@ -1,6 +1,6 @@
 # NOTE
 Course: ECON303400 Econometrics II
 
-Grade: Withdraw
+Grade: Withdrawn
 
 Semester: Spring 2025
