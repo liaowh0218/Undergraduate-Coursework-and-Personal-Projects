@@ -1,4 +1,6 @@
-# Self-Learning
-I finished 'Derivatives Market' in Fall 2024, and am going to take 'Derivatives Pricing' in Spring 2026.
+# Self-Learning Projects
+Books:
 
-Please note that the materials in this folder are **personal individual projects rather than coursework**.
+1. **Derivatives Analytics with Python: Data Analysis, Models, Simulation, Colibration and Hedging**
+https://www.amazon.com/Derivatives-Analytics-Python-Simulation-Calibration/dp/1119037999
+2. 
