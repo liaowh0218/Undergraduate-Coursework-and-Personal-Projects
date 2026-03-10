@@ -1,6 +1,4 @@
-# NOTE
-Course: ICMS520100 Machine Learning
-
+# ICMS520100 Machine Learning
 Grade: A-
 
 Semester: Spring 2025
