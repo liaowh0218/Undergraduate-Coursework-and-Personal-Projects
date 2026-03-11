@@ -18,7 +18,7 @@ respectively.
 ## Methods
 **Programming Language:** Python
 
-**Libraries:** sympy, numpy, matplotlib
+**Libraries:** SymPy, NumPy, Matplotlib
 
 I utilized "SymPy" for **solving the ODE in symbol form**, and used "NumPy" for **inserting values into the formula** as well as **assigning value** for $T_{0}$, $R$, $k$. Finally, I implemented "Matplotlib" for **data visualization**.
 
