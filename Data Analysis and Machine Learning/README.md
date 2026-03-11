@@ -2,3 +2,7 @@
 Grade: A+
 
 Semester: Spring 2025
+
+Textbook: 
+
+# About
