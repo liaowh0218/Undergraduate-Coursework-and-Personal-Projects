@@ -3,6 +3,6 @@ Offered by **Department of Quantitative Finance**
 
 **Grade:** In Progress (Spring 2026)
 
-**Materials:** Lecture notes made by instructor
+**Materials:** Provided by Instructor
 
 ## About
