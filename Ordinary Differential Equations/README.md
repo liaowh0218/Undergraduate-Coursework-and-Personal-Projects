@@ -1,4 +1,6 @@
 # EECS 203001 Ordinary Differential Equations
-Grade: In Progress
+Offered by [Interdiciplinary Program of Electircal Engineering and Computer Science](https://u-eecs.site.nthu.edu.tw/)
 
-Semester: Spring 2026
+**Grade:** In Progress (Spring 2026)
+
+## About
