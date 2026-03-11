@@ -1,6 +1,7 @@
 # ICMS520100 Machine Learning
-Grade: A-
-
-Semester: Spring 2025
-
+Offered by **Institute of Computation and Modeling Science**
 This is a **graduate-level** course.
+
+**Grade:** A- (Spring 2025)
+
+## About
