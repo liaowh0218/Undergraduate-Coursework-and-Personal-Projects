@@ -1,4 +1,6 @@
 # ECON303800 Data Analysis and Machine Learning
+Offered by Department of Economics
+
 Grade: A+
 
 Semester: Spring 2025
