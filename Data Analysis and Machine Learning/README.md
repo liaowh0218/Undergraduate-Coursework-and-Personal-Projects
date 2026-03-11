@@ -1,9 +1,7 @@
 # ECON303800 Data Analysis and Machine Learning
 Offered by **Department of Economics**
 
-**Grade:** A+
-
-**Semester:** Spring 2025
+**Grade:** A+ (Spring 2025)
 
 **Textbooks:**
 1. Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan  
