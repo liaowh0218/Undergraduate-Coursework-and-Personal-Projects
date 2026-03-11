@@ -11,4 +11,4 @@ Offered by [Department of Economics](https://econ.site.nthu.edu.tw/)
 ## About
 This repository contains all the **quizzes** and **assignments** completed with Python.
 
-The primary goal of the scripts is to verify the results provided by textbooks by using Python. When the discrepancies or errors were found, we would fix them into corrected versions.
+The primary goal of the scripts is to verify the results provided by textbooks by using Python. When the discrepancies or errors were found, we would fix them into corrected versions as quizzes or assignments.
