@@ -1,5 +1,5 @@
 # ECON303800 Data Analysis and Machine Learning
-Offered by Offered by [Department of Economics](https://econ.site.nthu.edu.tw/)
+Offered by [Department of Economics](https://econ.site.nthu.edu.tw/)
 
 **Grade:** A+ (Spring 2025)
 
