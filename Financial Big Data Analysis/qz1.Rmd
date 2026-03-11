@@ -1,0 +1,80 @@
+---
+title: "<center>Quiz 1</center>"
+author: "<center>110072132 廖韋鈜</center>"
+output:
+  html_document:
+    theme: darkly
+    highlight: monochrome
+    df_print: paged
+    toc: true
+    toc_float: true
+    css: style.css
+  html_notebook:
+    theme: darkly
+    highlight: monochrome
+    df_print: paged
+    toc: true
+    toc_float: true
+    css: style.css
+    code_folding: show
+  pdf_document:
+    toc: true
+editor_options:
+  chunk_output_type: inline
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+mpg
+```
+1. 變量：11
+   樣本數：234
+   manufacturer, model, displ, year, cyl, trans, drv, cty, hwy, fl, class
+   
+2. manufacturer <chr>, model <chr>, displ <dbl>, year <int>, cyl <int>, trans <chr>, drv <chr>, cty <int>, hwy <int>, fl <chr>, class <chr>
+
+
+
+```{r}
+summary(mpg$drv)
+
+summary(mpg$cty)
+
+summary(mpg$hwy)
+
+summary(mpg$fl)
+
+summary(mpg$class)
+
+summary(mpg$manufacturer)
+
+summary(mpg$model)
+
+summary(mpg$displ)
+
+summary(mpg$year)
+
+summary(mpg$cyl)
+
+summary(mpg$trans)
+
+
+```
+3. 因為有些是文字的資料，所以他的summary不是quantile相關的資料。
+   另外的資料是數值的，所以summary是我們熟知的quantile結果。
+
+
+
+```{r}
+plot(mpg$displ, mpg$hwy)
+```
+4. x軸是displ的數值，y軸是hwy的數值。
+
+
+
+
+
