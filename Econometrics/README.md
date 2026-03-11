@@ -11,6 +11,6 @@ In this course, students collaberate in groups to write an essay on a self-selec
 ## Methods
 **Programming Language:** Python
 
-**Libraries:** selenium, BeautifulSoup, pandas
+**Libraries:** Selenium, BeautifulSoup, Pandas
 
-I untilized **"selenium"** to interact with browser automatically, **"BeautifulSoup"** for HTML parsing and data extraction, and **"pandas"** for data cleaning and exporting the datasets to csv format.
+I untilized **"Selenium"** to interact with browser automatically, **"BeautifulSoup"** for HTML parsing and data extraction, and **"Pandas"** for data cleaning and exporting the datasets to csv format.
