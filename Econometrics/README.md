@@ -1,4 +1,4 @@
-# ECON303400 Econometrics II
+# ECON303400 Introduction to Econometrics II
 Offered by [Department of Economics](https://econ.site.nthu.edu.tw/)
 
 **Grade:** Withdrawn (Spring 2025)
