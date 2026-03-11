@@ -5,6 +5,5 @@ This repository contains a collection of academic assignments related to **quant
 National Tsing Hua University (Hsinchu, Taiwan)
 
 **Majors:**
-1. Economics (Bachelor of Arts)  
-2. Quantitative Finance (Bachelor of Science in Management)
-
+- Economics (Bachelor of Arts)
+- Quantitative Finance (Bachelor of Science in Management)
