@@ -15,3 +15,4 @@ With room temperature $T_{room}$ and temperature of inlet water $T_{in}$ held co
 
 respectively.
 
+## Methods
