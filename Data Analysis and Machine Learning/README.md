@@ -5,7 +5,7 @@ Offered by **Department of Economics**
 
 **Semester:** Spring 2025
 
-**Textbook:**
+**Textbooks:**
 1. Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan  
    https://www.amazon.com/Doing-Bayesian-Data-Analysis-Tutorial/dp/0124058884
 
@@ -13,4 +13,4 @@ Offered by **Department of Economics**
    https://www.amazon.com/First-Course-Machine-Learning/dp/0367574640
 
 ## About
-This repository contains all the quizes and assignments with Python.
+This repository contains all the **quizzes** and **assignments** completed with Python.
