@@ -12,3 +12,5 @@ This is a bonus project in ODE. It is a problem about dynamic variation in tempe
 - initial water temperature in the tub($T_{0}$)
 - flow rate of the water($R$)
 - heat loss coefficient($k$)
+
+In each of the questions, it fixed all the variables except the $R$, $T_{0}$, $k$ respectively to observe how the variation of $R$, $T_{0}$, $k$ affect the $T$.
