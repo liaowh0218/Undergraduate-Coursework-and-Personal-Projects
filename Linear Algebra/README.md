@@ -1,5 +1,5 @@
 # QF214800 Linear Algebra
-Offered by **Department of Quantitative Finance**
+Offered by [Department of Quantitative Finance](https://qf.site.nthu.edu.tw/)
 
 **Grade:** B+ (Fall 2025)
 
