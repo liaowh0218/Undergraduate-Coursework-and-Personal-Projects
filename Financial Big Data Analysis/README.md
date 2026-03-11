@@ -1,4 +1,10 @@
 # QF 322000 Financial Big Data Analysis
-Grade: In Progress
+Offered by **Department of Quantitative Finance**
 
-Semester: Spring 2026
+**Grade:** In Progress
+
+**Semester:** Spring 2026
+
+**Materials:** Lecture notes made by instructor
+
+## About
