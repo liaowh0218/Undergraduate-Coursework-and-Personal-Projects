@@ -8,10 +8,10 @@ Offered by [Interdisciplinary Program of Electrical Engineering and Computer Sci
 ## About
 This is a bonus project in ODE.
 
-With room temperature $T_{room}$ and temperature of inlet water $T_{in}$ are held constant, we investigate the dynamic variation in temperature of tub water $T(t)$ affected by
-- initial water temperature in the tub($T_{0}$)
-- flow rate of the water($R$)
-- heat loss coefficient($k$)
+With room temperature $T_{room}$ and temperature of inlet water $T_{in}$ held constant, we investigate the dynamic variation in temperature of tub water $T(t)$ affected by
+- initial water temperature in the tub $T_{0}$
+- flow rate of the water $R$
+- heat loss coefficient $k$
 
 respectively.
 
