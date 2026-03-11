@@ -1,4 +1,11 @@
 # ECON303400 Econometrics II
-Grade: Withdrawn
+Offered by **Department of Economics**
 
-Semester: Spring 2025
+**Grade:** Withdrawn
+
+**Semester:** Spring 2025
+
+**Textbook:** Introductory Econometrics: A Modern Approach 7e  
+https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap/dp/1337558869
+
+## About
