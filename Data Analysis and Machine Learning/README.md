@@ -11,4 +11,4 @@ Offered by [Department of Economics](https://econ.site.nthu.edu.tw/)
 ## About
 This repository contains all the **quizzes** and **assignments** completed with Python.
 
-Most of them are aim to verify if the results in the textbooks are correct by using Python. If we found mistakes, we would fix them and yield the correct version.
+The primary goal of these codes are to verify the results providing by textbooks by using Python. When the discrepancies or errors were found, we would fix it into corrected versions.
