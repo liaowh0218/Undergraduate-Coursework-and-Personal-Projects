@@ -5,5 +5,8 @@ This repository contains a collection of academic assignments related to **quant
 From Sep 2021 to Jun 2026
 
 **Majors:**
-- Economics (Bachelor of Arts)
 - Quantitative Finance (Bachelor of Science in Management)
+- Economics (Bachelor of Arts)
+
+**Certificate Program**
+- Data Science Credit Program (Non-Degree)
