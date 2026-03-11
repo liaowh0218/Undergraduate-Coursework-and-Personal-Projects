@@ -3,6 +3,8 @@ Offered by **Department of Quantitative Finance**
 
 **Grade:** In Progress (Spring 2026)
 
+**Programming Language:** R
+
 **Materials:** Provided by Instructor
 
 ## About
