@@ -4,4 +4,6 @@ This is a **graduate-level** course.
 
 **Grade:** A- (Spring 2025)
 
+**Textbooks:** [Understanding Machine Learning: From Theory To Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107512824)
+
 ## About
