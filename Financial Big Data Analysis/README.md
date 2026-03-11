@@ -8,3 +8,6 @@ Offered by [Department of Quantitative Finance](https://qf.site.nthu.edu.tw/)
 **Materials:** Provided by Instructor
 
 ## About
+This file contains all the quizzes and assignments from QF322000.
+
+This course foucuses on implementing statistical analysis and visualization with R programming.
