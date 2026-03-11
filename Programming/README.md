@@ -1,4 +1,8 @@
 # QF100300 Introduction to Programming
-Grade: A+
+Offered by [Department of Quantitative Finance](https://qf.site.nthu.edu.tw/)
 
-Semester: Spring 2025
+**Grade:** A+ (Spring 2025)
+
+**Material:** Provided by Instructor
+
+## About
